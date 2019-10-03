@@ -3,7 +3,7 @@
 _Note: You must clone the [Same Size K Means repository](https://github.com/ndanielsen/Same-Size-K-Means) in the root directory of this repository and rename the file from `Same-Size-K-Means` to `Same_Size_K_Means` in order to use the same size k means clustering feature of this program._
 
 ## Usage
-Run ```python matcher.py``` in the root directory with your files. Your file with all the matches must be titled `data.tsv` and the list of rushees must be titled `rushees.tsv`.
+Run ```python matcher.py``` in the same directory or parent directory as your data files. Follow the command line prompts to use the program.
 
 ## Details
 _Abstract:_ Throughout a networking event, members will get to meet a large number of candidates. Following this networking event, interviews are conducted to evaluate the candidates. When it comes to interviews, we don't want members to see the same faces that they have already networked with. To increase each candidate's exposure, we want to create room assignments that maximize the number of new faces shown to interviewers. This allows more individuals to provide feedback on a candidate when discussing qualifications.
